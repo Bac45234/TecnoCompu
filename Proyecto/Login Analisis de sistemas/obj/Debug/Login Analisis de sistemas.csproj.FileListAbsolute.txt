@@ -1,0 +1,11 @@
+c:\users\pepsi\documents\visual studio 2015\Projects\Login Analisis de sistemas\Login Analisis de sistemas\bin\Debug\Login Analisis de sistemas.exe.config
+D:\Login de analisis\Login Analisis de sistemas\bin\Debug\Login Analisis de sistemas.exe.config
+D:\Login de analisis\Login Analisis de sistemas\bin\Debug\Login Analisis de sistemas.exe
+D:\Login de analisis\Login Analisis de sistemas\bin\Debug\Login Analisis de sistemas.pdb
+D:\Login de analisis\Login Analisis de sistemas\obj\Debug\Login Analisis de sistemas.csprojResolveAssemblyReference.cache
+D:\Login de analisis\Login Analisis de sistemas\obj\Debug\Login_Analisis_de_sistemas.Login.resources
+D:\Login de analisis\Login Analisis de sistemas\obj\Debug\Login_Analisis_de_sistemas.Properties.Resources.resources
+D:\Login de analisis\Login Analisis de sistemas\obj\Debug\Login Analisis de sistemas.csproj.GenerateResource.Cache
+D:\Login de analisis\Login Analisis de sistemas\obj\Debug\Login Analisis de sistemas.exe
+D:\Login de analisis\Login Analisis de sistemas\obj\Debug\Login Analisis de sistemas.pdb
+D:\Login de analisis\Login Analisis de sistemas\obj\Debug\Login_Analisis_de_sistemas.Menu.resources
